@@ -1,5 +1,10 @@
 # Ignorar archivos y directorios de configuración del IDE
 .idea/
+
+# Ignorar archivos de log
 *.log
+
+# Ignorar el directorio logs y todo su contenido
+logs/
 
 
